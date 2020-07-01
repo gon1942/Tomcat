@@ -1,4 +1,4 @@
-# docker-ubuntu-tomcat9
+# Tomcat Server
 Docker container (Ubuntu 20.04 &amp; Tomcat 9)
 
 ### Installed software:
