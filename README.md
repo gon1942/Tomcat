@@ -24,5 +24,6 @@ docker create \
   -v /path/to/webapps:/srv/webapps \
   -v /path/to/logs:/srv/logs \
   -v /path/to/opt:/opt \
-  --restart unless-stopped
+  --restart unless-stopped \
+  vlombardino/ubuntu-tomcat9
 ```
