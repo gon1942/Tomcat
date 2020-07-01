@@ -9,7 +9,7 @@ Docker container (Ubuntu 20.04 &amp; Tomcat 9)
 
 
 ## Notes
-Tomcat management console has been defaulted to admin:admin. If you would like to change it to something else change the following:
+Tomcat management console has been defaulted to admin:admin. If you would like to use a different username and/or password change the following:
 * TOM_USER=admin
 * TOM_PASS=admin
 
