@@ -1,5 +1,5 @@
 # Tomcat Server
-Docker container (Ubuntu 20.04 &amp; Tomcat 9)
+A tomcat server to run webapps.
 
 ### Installed software:
 * Ubuntu 20.04
