@@ -1,5 +1,5 @@
 # Tomcat Server
-A tomcat server to run webapps.
+A tomcat server to run a web application archive file (.war) in the webapps folder.
 
 ### Installed software:
 * Ubuntu 20.04
